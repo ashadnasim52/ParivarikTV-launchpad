@@ -1,0 +1,14 @@
+.team-img-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.team-img {
+	height: 250px;
+	width: 250px;
+}
+.img-thumbnail {
+	background-color: #290078;
+}
